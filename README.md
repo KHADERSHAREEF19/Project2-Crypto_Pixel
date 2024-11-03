@@ -1,4 +1,4 @@
-#Encryptify
+# Encryptify
 Pixel manipulation for image encryption involves altering the pixel values of an image to encode hidden information or to make the image unreadable without decryption. Here’s a brief overview of how pixel manipulation can be used for image encryption:
 
 Pixel Value Modification: The simplest method involves directly modifying the pixel values using mathematical operations such as addition, subtraction, multiplication, or division. For instance, adding a secret key value to each pixel can alter its intensity.
